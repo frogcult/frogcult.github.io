@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
+
+
+html {
+  background-color: #9dd341;
+  cursor: url("https://frogcult.org/images/cursor.gif"), default;
+}
+
+body {
+  cursor: url("https://frogcult.org/images/cursor.gif"), default;
+}
+
+a, button {
+  cursor: url("https://frogcult.org/images/cursor.gif"), default;
+}
+
+button {
+  cursor: url("https://frogcult.org/images/cursor.gif"), default;
+}
+
+.logo:hover {
+  color: white !important;
+  /* border: 1px solid red; */
+  display: block;
+}
+
+
+h1 {
+  font-size: 17px;
+  text-align: center;
+  color: black;
+  font-family: 'Courier Prime ', italic;
+  position: relative;
+  margin-top: 15px;
+  letter-spacing: 0.5em;
+}
+
+#home {
+  font-size: 0.3 em;
+  text-align: center;
+  color: white;
+  /* font-family: 'Fredoka One', cursive; */
+  position: relative;
+  font-family: 'Exo', sans-serif;
+}
+
+.home {
+  width: 80%;
+  height: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: -100px;
+}
+
+.logo:hover > h1{
+  color: white;
+}
+
+h3 {
+  font-size: 70px;
+  /* margin-top: -165px; */
+  text-align: center;
+  position: relative;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#img2 {
+height: 255px;
+width: 255px;
+float: left;
+border-radius: 50px;
+}
+
+#frogchamp {
+  height: 255px;
+  width: 255px;
+  border-radius: 50px;
+  float: right;
+}
+
+#rules {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  font-family: 'Fredoka One', cursive;
+}
+
+ol {
+  font-size: 25px;
+  margin-left: 27.5%;
+  color: white;
+  font-family: 'Fredoka One', cursive;
+}
+
+#img3 {
+
+float: down;
+border-radius: 50px;
+}
+
+#ok {
+  font-size: 15px;
+  text-align: center;
+  color: white;
+  font-family: 'Fredoka One', cursive;
+}
+
+#east {
+  font-size: 3px;
+  text-align: left;
+  color: white;
+  font-family: 'Fredoka One', cursive;
+}
+
+#rat {
+  height: 350px;
+  width: 550px;
+  border-radius: 50px;
+
+}
+
+#hh2 {
+  font-size: 25px;
+  text-align: right;
+  color: white;
+  font-family: 'Fredoka One', cursive;
+}
+
+#man {
+  height: 190px;
+  width: 475px;
+  display: block;
+  text-align : center; 
+  background: none;
+  x: 50%;
+}
+
+.lolgo svg:hover {
+  fill: white;
+  transition:  0.45s;
+}
+
+#ava a {
+  text-decoration: none;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color:black;
+  transition: all 0.5s;
+}
+
+a:hover {
+    color:white;
+    letter-spacing: 0.4em;
+    transition: all 0.5s;
+    text-decoration: none;
+}
+
+#ava a:hover {
+   cursor: pointer;
+
+}
+
