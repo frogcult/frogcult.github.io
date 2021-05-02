@@ -101,6 +101,10 @@ ol {
   font-family: 'Fredoka One', cursive;
 }
 
+ol::marker {
+  text-align: center !important;
+}
+
 #img3 {
 
 float: down;
