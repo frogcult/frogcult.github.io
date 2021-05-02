@@ -99,6 +99,7 @@ ol {
   text-align: center;
   color: white;
   font-family: 'Fredoka One', cursive;
+  list-style-type: none;
 }
 
 li::marker {
