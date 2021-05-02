@@ -96,7 +96,7 @@ border-radius: 50px;
 
 ol {
   font-size: 25px;
-  margin: 0 auto;
+  text-align: center;
   color: white;
   font-family: 'Fredoka One', cursive;
   list-style-type: none;
