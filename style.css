@@ -101,7 +101,7 @@ ol {
   font-family: 'Fredoka One', cursive;
 }
 
-ol::marker {
+li::marker {
   text-align: center !important;
 }
 
