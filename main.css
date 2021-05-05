@@ -1,0 +1,25 @@
+.landing-logo {
+    width: 30vw;
+    height: 25vw;
+    background-image: url(https://frogcult.org/images/logo-mixed.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: auto;
+}
+.landing-text {
+    text-align: center;
+    letter-spacing: 0.5em;
+    padding-bottom: 40px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.landing-box a:hover{
+    color: white;
+}
+.landing-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+}
